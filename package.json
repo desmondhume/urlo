@@ -1,6 +1,6 @@
 {
   "name": "urlo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A supersimple package to generate url from a string and a params collection",
   "main": "index.js",
   "scripts": {
