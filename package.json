@@ -1,0 +1,19 @@
+{
+  "name": "urlo",
+  "version": "1.0.0",
+  "description": "A supersimple package to generate url from a string and a params collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desmondhume/urlo.git"
+  },
+  "author": "Gregorio Setti <gregorio.setti@gmail.com> (http://desmondhume.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desmondhume/urlo/issues"
+  },
+  "homepage": "https://github.com/desmondhume/urlo"
+}
