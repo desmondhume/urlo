@@ -4,7 +4,7 @@ A node package to generate url from a string and params
 
 Urlo does just one thing:
 
-```
+```js
 var urlo  = require("urlo");
 var myUrl = "http://my-awesome-site.com/author/:authorId/posts/:postId";
 
